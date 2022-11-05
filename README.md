@@ -13,7 +13,7 @@ Note: Don't worry, all inputs will be strings, and every string is a perfectly v
 ``"1405" --> 1405``
 ``"-7" --> -7``
 
-# The 11 Ways of Converting strings to number in JS
+# The 11 Ways of Converting strings to number in JavaScript
 1. Using the Number() Function
 ```
 function stringToNumber(str) {
